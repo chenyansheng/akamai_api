@@ -7,7 +7,7 @@ bash shell tools for akamai api
 3. Queue Length (GET api.ccu.akamai.com/ccu/v2/queues/default) - Returns the number of outstanding objects in the user's queue.
 
 
-## usage:
+## Usage:
  ./akamai_api.sh Commands [Options]
 
 ### Commands:
