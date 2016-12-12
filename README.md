@@ -11,17 +11,17 @@ bash shell tools for akamai api
  ./akamai_api.sh Commands [Options]
 
 ### Commands:
-purge_by_cpcode
-purge_by_object
-purge_status
-queue_length
+purge_by_cpcode 
+purge_by_object 
+purge_status 
+queue_length 
 
-### Options:
--h | -help       - This help text
--u               - akamai user name
--p               - akamai user password
--cpcode          - akamai opcode
--object          - akamai object
+### Options: 
+-h | -help       - This help text 
+-u               - akamai user name 
+-p               - akamai user password 
+-cpcode          - akamai opcode 
+-object          - akamai object 
 
 #### eg: 
  ./akamai_api.sh purge_by_cpcode -u aaa -p pwd -cpcode 0000
