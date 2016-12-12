@@ -11,10 +11,10 @@ bash shell tools for akamai api
  ./akamai_api.sh Commands [Options]
 
 ### Commands:
-purge_by_cpcod
-purge_by_object
-purge_status
-queue_length
+ 1. purge_by_cpcod
+ 2. purge_by_object
+ 3. purge_status
+ 4. queue_length
 
 ### Options: 
 -h | -help       - This help text 
