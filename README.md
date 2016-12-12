@@ -17,11 +17,11 @@ bash shell tools for akamai api
  4. queue_length
 
 ### Options: 
- 1. -h | -help        - This help text 
- 2. -u                - akamai user name 
- 3. -p                - akamai user password 
- 4. -cpcode           - akamai opcode 
- 5. -object           - akamai object 
+ 1. -h | -help        : This help text 
+ 2. -u                : akamai user name 
+ 3. -p                : akamai user password 
+ 4. -cpcode           : akamai opcode 
+ 5. -object           : akamai object 
 
 #### eg: 
  ./akamai_api.sh purge_by_cpcode -u aaa -p pwd -cpcode 0000
